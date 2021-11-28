@@ -1,8 +1,17 @@
+# deploy
+
+`https://nextjs-blog-todos-delta.vercel.app/`
+
+# Frontend
+
+https://github.com/takahashis-shun/nextjs_blog_todos
+
 # nextjs_restapi_blogapp
 
 - User
 - Post（id, title, content, created_at）
 - Task (id, title, created_at)
+
 
 # objective
 
