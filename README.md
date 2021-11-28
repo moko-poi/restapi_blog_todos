@@ -22,6 +22,8 @@ https://github.com/takahashis-shun/nextjs_blog_todos
 
 python, Django REST Framework, PostgreSQL, JWT, heroku
 
+セキュリティ面を考慮し、JWT認証を採用
+
 # Usage
 
 `https://nextjs-api-blogapp.herokuapp.com/api/`
